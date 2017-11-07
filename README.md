@@ -1,5 +1,7 @@
 # Copy paste guide for RxJava1-to-RxJava2
 
+Feel free to add more copy-paste guides
+
 ```Observable``` is ```Flowable```  
 
 ```CompositeSubscription``` is ```CompositeDisposable```  
