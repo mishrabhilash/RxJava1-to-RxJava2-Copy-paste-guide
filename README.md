@@ -1,4 +1,4 @@
-# RxJava1-to-RxJava2-migration-guide
+# Copy paste guide for RxJava1-to-RxJava2
 
 ```Observable``` is ```Flowable```
 
