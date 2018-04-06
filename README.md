@@ -18,3 +18,4 @@ Feel free to add more copy-paste guides
 |```Actions.empty()```|```Functions.EMPTY_ACTION```|Similarly there are ```Functions.emptyConsumer``` and ```Functions.emptyBiconsumer```|
 |```TestSubscription.getNextEvents()```|```TestSubscription.values```|
 |```RxJavaCallAdapterFactory```|```RxJava2CallAdapterFactory```|
+|```PublishSubject.asObservable()```|```PublishSubject.hide()```|
